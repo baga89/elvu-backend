@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_test_specifications",
+  "info": {
+    "name": "Specifications",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "property": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
